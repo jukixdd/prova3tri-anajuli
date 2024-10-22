@@ -1,13 +1,15 @@
 body {
     background-color: slateblue;
+    text-align: center;
 }
 .oi{
     color: rgb(199, 19, 55);
 }
-.p{
+p{
     color: brown;
     font-size: large;
 }
-.h1{ 
+h1{ 
     color: blue;
+    font-style: italic;
 }
